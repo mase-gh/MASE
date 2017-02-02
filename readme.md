@@ -1,6 +1,7 @@
 #Malware and Proliferation
 
 Trey Herr — trey_herr@hks.harvard.edu
+
 Amy Armbrust — amy@nullhybrid.net  
 
 ##Executive Summary
